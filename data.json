@@ -1,0 +1,88 @@
+{
+    "Deporte": [
+        {
+            "Nombre": "Beisbol",
+            "Jugadores": 9,
+            "Campo": "Grama",
+            "Pelota": true
+        },
+        {
+            "Nombre": "Futbol",
+            "Jugadores": 11,
+            "Campo": "Grama",
+            "Pelota": true
+        },
+        {
+            "Nombre": "Basketball",
+            "Jugadores": 5,
+            "Campo": "Tabloncillo",
+            "Pelota": true
+        },
+        {
+            "Nombre": "Ping Pong",
+            "Jugadores": 1,
+            "Campo": "Mesa",
+            "Pelota": true
+        },
+        {
+            "Nombre": "Lucha",
+            "Jugadores": 1,
+            "Campo": "Piso",
+            "Pelota": false
+        },
+        {
+            "Nombre": "Natacion",
+            "Jugadores": 1,
+            "Campo": "Otro Tipo",
+            "Pelota": false
+        },
+        {
+            "Nombre": "Tenis",
+            "Jugadores": 1,
+            "Campo": "Piso",
+            "Pelota": true
+        },
+        {
+            "Nombre": "Rugby",
+            "Jugadores": 10,
+            "Campo": "Grama",
+            "Pelota": true
+        },
+        {
+            "Nombre": "Ajedrez",
+            "Jugadores": 1,
+            "Campo": "Mesa",
+            "Pelota": false
+        },
+        {
+            "Nombre": "Arqueria",
+            "Jugadores": 1,
+            "Campo": "Piso",
+            "Pelota": false
+        },
+        {
+            "Nombre": "Futbol Sala",
+            "Jugadores": 5,
+            "Campo": "Tabloncillo",
+            "Pelota": true
+        },
+        {
+            "Nombre": "Hockey",
+            "Jugadores": 5,
+            "Campo": 5,
+            "Pelota": true
+        },
+        {
+            "Nombre": "Karate",
+            "Jugadores": 1,
+            "Campo": "Piso",
+            "Pelota": false
+        },
+        {
+            "Nombre": "Poker Americano",
+            "Jugadores": 1,
+            "Campo": "Mesa",
+            "Pelota": false
+        }
+    ]
+}
